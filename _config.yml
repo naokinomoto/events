@@ -18,8 +18,6 @@ twitter_username: reprimande
 github_username:  naokinomoto
 
 # Build settings
-markdown: redcarpet
-
 exclude: [vendor, Gemfile, Gemfile.lock]
 
 future: true
