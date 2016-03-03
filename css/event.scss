@@ -1,0 +1,42 @@
+---
+---
+
+body {
+  background-color: black;
+  color: #999;
+  font-family: "Lato";
+  font-whight: 900;
+
+  text-align: right;
+  padding: 2px;
+
+  margin: 0 auto;
+}
+
+.post-title {
+  font-size: 50px;
+  letter-spacing: -1px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  padding-top: 50px;
+}
+
+.post img {
+  text-align: center;
+  opacity: 0.6;
+}
+
+.post ul li {
+  list-style-type: none;
+  padding: 2px;
+}
+
+.post p {
+  font-size: 14px;
+  padding: 2px;
+}
