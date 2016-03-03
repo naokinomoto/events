@@ -19,14 +19,14 @@ date:   2016-03-24 19:00:00 +0900
 
 ## METROSCAN(from Baltic States)
 
-<img src="/image/metroscan.jpg" width="400px">
+<img src="/events/image/metroscan.jpg" width="400px">
 
 METROSCANは、バルト諸国、リトアニア出身の二人の先端的オーディオビジュアルアーティストからなるパフォーマンスユニット。 プロジェクトのタイトルは、Metro、Metropolis、Metronome 等の言葉から派生しており、これらの多面的コンセプトがデジタルアートとして具現化されている。 特殊に生成された映像ストラクチャーと精密なイメージ、それらを洗練された音響と融合・同期させ、純粋なデジタル美を表現する。
 IDM、エレクトロニック、グリッチ、ノイズ、ビート、リアルタイムに生成されたコンピュータ・グラフィックス、データ・ストリーム情報、ポスト都市型、ポスト・インターネット美学を反映するプロジェクトである。 尖端的な音響と独特で多様なリズム、その上で成立する純粋なデジタル音の多層的なテクスチャー。それらが METROSCANの特徴である。 このプロジェクトは異なる分野、異なる素材で制作活動を行う二人のアーティストによる完全一体型のオールインワンな芸術的成果であり、このデジタル時代に触発されたポスト都市型精神を反映している。
 
 ## VELTZ
 
-<img src="/image/veltz.jpg" width="400px">
+<img src="/events/image/veltz.jpg" width="400px">
 
 2008年からVLZ PRODUKTをスタート。
 美川俊冶、村井啓哲、The New Blockaders、Stephen Cornford他
@@ -40,7 +40,7 @@ VAとしてアルケミーレコードのTNBジャパントリビュート、他
 
 ## Renick Bell
 
-<img src="/image/renickbell.jpg" width="400px">
+<img src="/events/image/renickbell.jpg" width="400px">
 
 Renick Bell （レニック・ベル）はライブコーディングのテクニックを使う。
 
@@ -66,7 +66,7 @@ Renick Bell （レニック・ベル）はライブコーディングのテク�
 
 ## Naoki Nomoto
 
-<img src="/image/nomoto.jpg" width="400px">
+<img src="/events/image/nomoto.jpg" width="400px">
 
 モジュラーシンセやアナログ機材を中心とした電子楽器奏者。
 様々なバンドでのライブ活動を経て、ソロでのライブ、多方面でのライブセッション、またDave Skipper氏との共同イベント"Attack
@@ -77,11 +77,11 @@ of the Killer Noodles!"や"electronics session"の企画等、勢力的に活動
 
 ## Infinity A.D. (Dave Skipper)
 
-<img src="/image/infinityad.jpg" width="400px">
+<img src="/events/image/infinityad.jpg" width="400px">
 
 英国出身／東京在住。2010年に日本で活動開始。アナログモジュラーシンセの機材を中心にして各クラブでライブ活動。サイケデリック/ノイズ/アブストラクト/日射脳が溶け。『木星より重い - HEAVIER THAN JUPITER』と『TOKYO FESTIVAL of MODULAR』のイベント主催者。Infinity A.D. 「インフィニティ・エイ・ディー」はデイブ・スキッパーの新しいプロジェクト：脳スマッシングサイケテクノイズ。
 
 [https://www.youtube.com/watch?v=psYyvvW2fAs](https://www.youtube.com/watch?v=psYyvvW2fAs)
 
 <canvas id="c" style='position: fixed;top: 0px;left: 0px; z-index:-1;'></canvas>
-<script src="/js/akn6.min.js"></script>
+<script src="/events/js/akn6.min.js"></script>
