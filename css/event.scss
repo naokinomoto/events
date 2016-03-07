@@ -3,9 +3,13 @@
 
 body {
   background-color: black;
-  color: #999;
+  color: black;
   font-family: "Lato";
   font-whight: 900;
+  text-shadow: 1px 1px 1px #fff,
+    -1px 1px 1px #fff,
+    1px -1px 1px #fff,
+    -1px -1px 1px #fff;
 
   text-align: right;
   padding: 2px;
@@ -28,7 +32,7 @@ h2 {
 
 .post img {
   text-align: center;
-  opacity: 0.6;
+  //opacity: 0.6;
 }
 
 .post ul li {
@@ -37,6 +41,6 @@ h2 {
 }
 
 .post p {
-  font-size: 14px;
+  font-size: 16px;
   padding: 2px;
 }

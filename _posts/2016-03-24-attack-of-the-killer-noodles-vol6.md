@@ -83,5 +83,5 @@ of the Killer Noodles!"や"electronics session"の企画等、勢力的に活動
 
 [https://www.youtube.com/watch?v=psYyvvW2fAs](https://www.youtube.com/watch?v=psYyvvW2fAs)
 
-<canvas id="c" style='position: fixed;top: 0px;left: 0px; z-index:-1;'></canvas>
+<canvas id="c2" style='position: fixed;top: 0px;left: 0px; z-index:-1;'></canvas>
 <script src="/js/akn6.min.js"></script>
