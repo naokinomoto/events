@@ -16,6 +16,8 @@ date:   2016-03-24 19:00:00 +0900
 - Naoki Nomoto
 - Infinity A.D.
 
+<img src="/events/image/akn6.png" width="600px">
+
 ## METROSCAN(from Baltic States)
 
 <img src="/events/image/metroscan.jpg" width="400px">
