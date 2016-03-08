@@ -3,7 +3,6 @@ layout: event
 title:  "Attack of the Killer Noodles!!! #6"
 date:   2016-03-24 19:00:00 +0900
 ---
-# featuring 'METROSCAN Japan Tour'
 - Date: 2016/3/24 (thu) 
 - Venue: Koiwa Bushbash
 - Time: open: 19:00 / start: 19:30
@@ -84,4 +83,4 @@ of the Killer Noodles!"や"electronics session"の企画等、勢力的に活動
 [https://www.youtube.com/watch?v=psYyvvW2fAs](https://www.youtube.com/watch?v=psYyvvW2fAs)
 
 <canvas id="c2" style='position: fixed;top: 0px;left: 0px; z-index:-1;'></canvas>
-<script src="/events/js/akn6.min.js"></script>
+<script src="{{ "/js/akn6.min.js" | prepend: site.baseurl }}"></script>
